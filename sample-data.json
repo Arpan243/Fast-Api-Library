@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Alice Smith",
+        "age": 22,
+        "address": {
+            "city": "Los Angeles",
+            "country": "USA"
+        }
+    },
+    {
+        "name": "Bob Johnson",
+        "age": 30,
+        "address": {
+            "city": "Toronto",
+            "country": "Canada"
+        }
+    },
+    {
+        "name": "Eva Martinez",
+        "age": 28,
+        "address": {
+            "city": "Madrid",
+            "country": "Spain"
+        }
+    },
+    {
+        "name": "Michael Lee",
+        "age": 26,
+        "address": {
+            "city": "Sydney",
+            "country": "Australia"
+        }
+    },
+    {
+        "name": "Sophia Kim",
+        "age": 29,
+        "address": {
+            "city": "Seoul",
+            "country": "South Korea"
+        }
+    }
+]
